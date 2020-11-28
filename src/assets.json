@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Solo Leveling",
+    "writtor": "Chugong",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/99/Solo_Leveling_Webtoon.png"
+  },
+  {
+    "id": "2",
+    "title": "Naruto",
+    "writtor": "Masashi Kishimoto",
+    "cover": "https://upload.wikimedia.org/wikipedia/id/9/94/NarutoCoverTankobon1.jpg"
+  },
+  {
+    "id": "3",
+    "title": "One Piece",
+    "writtor": "Eichiiro Oda",
+    "cover": "https://upload.wikimedia.org/wikipedia/id/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Fairy Tail",
+    "writtor": "Hiro Mashima",
+    "cover": "https://upload.wikimedia.org/wikipedia/id/e/e1/FairyTail-Volume_1_Cover.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Edens Zero",
+    "writtor": "Hiro Mashima",
+    "cover": "https://upload.wikimedia.org/wikipedia/id/b/b7/Edens_Zero_Volume_1_Cover.jpg"
+  }
+]

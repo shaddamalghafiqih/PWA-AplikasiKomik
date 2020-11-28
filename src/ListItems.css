@@ -1,0 +1,17 @@
+
+.card{
+  width: fit-content;
+  border-radius: 32px;
+}
+.card-body{
+  padding: 0;
+}
+.card-body img{
+  border-radius: 32px;
+}
+button{
+  border: none;
+  padding: 8px;
+  color: #ffffff;
+  background-color: #121212;
+}
