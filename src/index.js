@@ -5,10 +5,13 @@ import './index.css';
 import ListItems from './ListItems'
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter as Router } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <ListItems />
+    <Router>
+      <ListItems />
+    </Router>
   </React.StrictMode>,
   document.getElementById('root')
 );
